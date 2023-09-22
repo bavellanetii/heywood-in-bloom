@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPZNtJ3BhAiW/LOAsB4Z8042GH4tj3HzEAMZ4zy2+SUknnrPltSNpFjmLU0PzY9uBL3U59/lXW+3xCSnP2YW7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bavel\\source\\repos\\HeywoodInBloom\\HeywoodInBloom\\HeywoodInBloom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bavel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bavel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bavel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\bavel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\bavel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\bavel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
