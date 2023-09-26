@@ -96,6 +96,7 @@ namespace HeywoodInBloom.Data
                             ImageUrl = "assets/dave.jpg"
                         }
                     });
+                    context.SaveChanges();
                 }
             }
         }
